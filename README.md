@@ -22,4 +22,4 @@ This project is a simple Tic Tac Toe game built with Next.js (App Router), JavaS
 3. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Next Steps
-- Implement the game logic and UI in `src/app/page.js`.
+- Updated the game logic and UI in `src/app/page.js`.
